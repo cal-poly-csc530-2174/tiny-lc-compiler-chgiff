@@ -1,0 +1,1 @@
+((λ (a) (ifleq0 (* (+ 1 3) 7) (println (12)) (println (a)))) 1)
